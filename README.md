@@ -32,7 +32,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 [MIT](/LICENSE) &copy; FrontendBR, Python Dev BR
 
-## Repositórios do .NET Dev BR
+## Repositórios do Python Dev BR
 
 - [Eventos](https://github.com/pydevbr/eventos)
 - [Vagas](https://github.com/pydevbr/vagas)
